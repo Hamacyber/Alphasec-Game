@@ -26,7 +26,9 @@ Credits
 📜 License
 
 ✅ You are free to play and share the game, but please do not modify or redistribute the .exe without permission.
-📧 Contact
 
+
+
+📧 Contact
 Have questions or feedback?
 📩 DM me on Instagram 
